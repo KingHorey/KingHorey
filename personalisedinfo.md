@@ -57,13 +57,8 @@
  <Br>
 <p align="center">
 <a href="https://www.linkedin.com/in/KingHorey" target="blank"><img align="center" src="https://img.shields.io/badge/Oreoluwa S. Akinbo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:oreoluwaakinbo.oa@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/oreoluwaakinbo-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;      <Br>
-<hr>
-<Br>
 
 <h1>Thank You! 🤵 </h1>
 <Br>
-
-------
-  
-Credit: [Aryagm](https://github.com/Aryagm)
+<hr>
 Last Edited on: 22/10/2022
