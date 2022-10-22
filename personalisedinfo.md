@@ -6,7 +6,7 @@
 <h1>About Me! 😎</h1>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently learning software engineering at ALX (cohirt 10).\
+🎓 &nbsp;I'm currently learning software engineering at ALX (cohort 10).\
 🌱 &nbsp;I'm on track for learning more about Javascript, C++, Java, PHP and SQL.\
 ✍️ &nbsp;In my free time, I pursue content creation as hobbies/side hustles.\
 <!--💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\!-->
