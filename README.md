@@ -23,7 +23,7 @@
   
   
 <Br>
-<hr>
+<hr style="border-style; dotted">
 <Br>
 <h1>Tools I use! 🛠️</h1>
 <Br>
